@@ -1,0 +1,13 @@
+C:\Users\John\Documents\Visual Studio 2010\Projects\Cryptography\NTRU Sharp\bin\Release\NTRUEngine.dll
+C:\Users\John\Documents\Visual Studio 2010\Projects\Cryptography\NTRU Sharp\bin\Release\NTRUEngine.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\Cryptography\NTRU Sharp\obj\Release\NTRUEngine.dll
+C:\Users\John\Documents\Visual Studio 2010\Projects\Cryptography\NTRU Sharp\obj\Release\NTRUEngine.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\Cryptography\NTRU\bin\Release\NTRUEngine.dll
+C:\Users\John\Documents\Visual Studio 2010\Projects\Cryptography\NTRU\bin\Release\NTRUEngine.pdb
+C:\Users\John\Documents\Visual Studio 2010\Projects\Cryptography\NTRU\obj\Release\NTRUEngine.dll
+C:\Users\John\Documents\Visual Studio 2010\Projects\Cryptography\NTRU\obj\Release\NTRUEngine.pdb
+C:\Users\Talgat\Downloads\NTRU-NET-master\bin\Release\NTRUEngine.dll
+C:\Users\Talgat\Downloads\NTRU-NET-master\bin\Release\NTRUEngine.pdb
+C:\Users\Talgat\Downloads\NTRU-NET-master\obj\Release\NTRUEngine.csprojResolveAssemblyReference.cache
+C:\Users\Talgat\Downloads\NTRU-NET-master\obj\Release\NTRUEngine.dll
+C:\Users\Talgat\Downloads\NTRU-NET-master\obj\Release\NTRUEngine.pdb
